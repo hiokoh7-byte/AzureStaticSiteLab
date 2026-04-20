@@ -1,4 +1,5 @@
-# AzureStaticSiteLab(https://www.loom.com/share/84bddfc1a7ab4760a97299ab46f3b076)
+# AzureStaticSiteLab
+# WATCH ME BUILD THIS LAB (https://www.loom.com/share/84bddfc1a7ab4760a97299ab46f3b076)
 # Azure Static Website Deployment Lab
 
 ## Objective
